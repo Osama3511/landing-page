@@ -1,1 +1,3 @@
-# my first project after learning the basics of html and css
+# TOP landing page project
+
+# image credits: https://pixabay.com/users/ptra-359668/
